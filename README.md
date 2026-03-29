@@ -1,1 +1,1 @@
-# new_demo_project
+# new-project
